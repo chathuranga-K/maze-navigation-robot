@@ -1,0 +1,1 @@
+# builds the maze dictionary, holds obstacle/start/goal positions
