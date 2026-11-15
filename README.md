@@ -67,7 +67,7 @@ python main.py
 maze-navigation-robot/
 ├── main.py       # runs a single episode, then the averaged experiment
 ├── maze.py       # builds the maze dictionary, holds obstacle/start/goal positions
-├── robot.py      # move() function and the random-walk simulation
+├── robot.py      # move functions and the random-walk simulation
 ├── README.md     # project description
 └── .gitignore    # keeps generated files out of the repo
 ```
